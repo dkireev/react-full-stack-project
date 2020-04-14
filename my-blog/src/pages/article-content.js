@@ -21,8 +21,8 @@ const articles = [
           nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
           sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
           interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-          consequat quam. Vivamus accumsan dui in facilisis aliquet.`
-    ]
+          consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+    ],
   },
   {
     name: "learn-node",
@@ -46,8 +46,8 @@ const articles = [
           nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
           sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
           interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-          consequat quam. Vivamus accumsan dui in facilisis aliquet.`
-    ]
+          consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+    ],
   },
   {
     name: "my-thoughts-on-resumes",
@@ -71,9 +71,9 @@ const articles = [
           nisi. Nunc vel pulvinar diam. Nam eleifend egestas viverra. Donec finibus lectus 
           sed lorem ultricies, eget ornare leo luctus. Morbi vehicula, nulla eu tempor 
           interdum, nibh elit congue tellus, ac vulputate urna lorem nec nisi. Morbi id 
-          consequat quam. Vivamus accumsan dui in facilisis aliquet.`
-    ]
-  }
+          consequat quam. Vivamus accumsan dui in facilisis aliquet.`,
+    ],
+  },
 ];
 
 export default articles;
